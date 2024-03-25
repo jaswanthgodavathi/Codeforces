@@ -1,3 +1,4 @@
+'''Changes made by Jaswanth'''
 for i in range(int(input())):
     flag = 0
     a = int(input())
@@ -10,3 +11,6 @@ for i in range(int(input())):
         print("NO")
     else:
         print("YES")
+
+
+    '''I want to make changes for these for sure for Arun to see'''
