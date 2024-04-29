@@ -1,5 +1,5 @@
 t = int(input())
-for _ in range(t):
+for i in range(t):
     n = int(input())
     c1 = n // 3
     c2 = n // 3
